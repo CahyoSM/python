@@ -1,0 +1,448 @@
+2025-06-02 15:44:28,334 [INFO] Mengambil IV token dari WebApp
+2025-06-02 15:44:29,167 [ERROR] IV token tidak ditemukan!
+2025-06-02 15:44:29,168 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 15:45:29,169 [INFO] Mengambil IV token dari WebApp
+2025-06-02 15:45:30,046 [ERROR] IV token tidak ditemukan!
+2025-06-02 15:45:30,047 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 15:46:30,047 [INFO] Mengambil IV token dari WebApp
+2025-06-02 15:46:30,098 [ERROR] IV token tidak ditemukan!
+2025-06-02 15:46:30,098 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 15:47:30,100 [INFO] Mengambil IV token dari WebApp
+2025-06-02 15:47:30,173 [ERROR] IV token tidak ditemukan!
+2025-06-02 15:47:30,174 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 15:48:30,174 [INFO] Mengambil IV token dari WebApp
+2025-06-02 15:48:30,222 [ERROR] IV token tidak ditemukan!
+2025-06-02 15:48:30,222 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 15:49:30,223 [INFO] Mengambil IV token dari WebApp
+2025-06-02 15:49:30,284 [ERROR] IV token tidak ditemukan!
+2025-06-02 15:49:30,284 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 15:50:30,285 [INFO] Mengambil IV token dari WebApp
+2025-06-02 15:50:30,369 [ERROR] IV token tidak ditemukan!
+2025-06-02 15:50:30,369 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 15:51:30,370 [INFO] Mengambil IV token dari WebApp
+2025-06-02 15:51:30,441 [ERROR] IV token tidak ditemukan!
+2025-06-02 15:51:30,442 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 15:52:30,443 [INFO] Mengambil IV token dari WebApp
+2025-06-02 15:52:30,532 [ERROR] IV token tidak ditemukan!
+2025-06-02 15:52:30,532 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 15:53:30,533 [INFO] Mengambil IV token dari WebApp
+2025-06-02 15:53:31,344 [ERROR] IV token tidak ditemukan!
+2025-06-02 15:53:31,344 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 15:54:31,345 [INFO] Mengambil IV token dari WebApp
+2025-06-02 15:54:31,604 [ERROR] IV token tidak ditemukan!
+2025-06-02 15:54:31,605 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 15:55:31,606 [INFO] Mengambil IV token dari WebApp
+2025-06-02 15:55:32,473 [ERROR] IV token tidak ditemukan!
+2025-06-02 15:55:32,473 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 15:56:32,475 [INFO] Mengambil IV token dari WebApp
+2025-06-02 15:56:32,614 [ERROR] IV token tidak ditemukan!
+2025-06-02 15:56:32,615 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 15:57:32,616 [INFO] Mengambil IV token dari WebApp
+2025-06-02 15:57:32,833 [ERROR] IV token tidak ditemukan!
+2025-06-02 15:57:32,834 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 15:58:32,835 [INFO] Mengambil IV token dari WebApp
+2025-06-02 15:58:32,901 [ERROR] IV token tidak ditemukan!
+2025-06-02 15:58:32,901 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 15:59:23,784 [INFO] Mengambil IV token dari WebApp
+2025-06-02 15:59:24,102 [ERROR] Error saat ambil IV: HTTPSConnectionPool(host='192.168.88.132', port=443): Max retries exceeded with url: /doc/page/login.asp (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1028)')))
+2025-06-02 15:59:24,103 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 16:04:25,609 [INFO] Mengambil IV token dari WebApp
+2025-06-02 16:04:26,621 [INFO] Berhasil akses login page
+2025-06-02 16:04:26,622 [ERROR] IV token tidak ditemukan!
+2025-06-02 16:04:26,623 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 16:05:26,624 [INFO] Mengambil IV token dari WebApp
+2025-06-02 16:05:26,899 [INFO] Berhasil akses login page
+2025-06-02 16:05:26,899 [ERROR] IV token tidak ditemukan!
+2025-06-02 16:05:26,900 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 16:06:26,900 [INFO] Mengambil IV token dari WebApp
+2025-06-02 16:06:26,981 [INFO] Berhasil akses login page
+2025-06-02 16:06:26,981 [ERROR] IV token tidak ditemukan!
+2025-06-02 16:06:26,982 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 16:07:26,983 [INFO] Mengambil IV token dari WebApp
+2025-06-02 16:07:27,888 [INFO] Berhasil akses login page
+2025-06-02 16:07:27,889 [ERROR] IV token tidak ditemukan!
+2025-06-02 16:07:27,889 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 16:07:59,278 [INFO] Mengambil IV token dari WebApp
+2025-06-02 16:07:59,356 [INFO] Berhasil akses login page
+2025-06-02 16:07:59,357 [INFO] <!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta http-equiv="cache-control" content="no-cache, must-revalidate" />
+    <meta http-equiv="expires" content="0" />
+  </head>
+  <body></body>
+  <script type="text/javascript">
+    //å¤\x84ç\x90\x86å\x8d\x87çº§ï¼\x8c4.0è®¾å¤\x87å\x8d\x87çº§å\x88°5.0æ\x97¶ä¼\x9aè¿\x9bå\x88°è¿\x99ä¸ªé¡µé\x9d¢
+    if (sessionStorage.getItem('disPatchLogin')) {
+      document.location.href = '../index.html#/portal/close'; //å¦\x82æ\x9e\x9cæ\x98¯ç¦»çº¿å\x8c\x85æ¨¡å¼\x8fä¸\x8bï¼\x8cé\x9c\x80è¦\x81è·³è½¬å\x88°closeé¡µé\x9d¢ï¼\x8cè®©ç\x94¨æ\x88·å\x85³æ\x8e\x89å\x86\x8dæ\x89\x93å¼\x80ï¼\x8cé\x81¿å\x85\x8då\x87ºç\x8e°ç\x99»å½\x95é¡µã\x80\x82
+    } else {
+      document.location.href = '../index.html#/portal/login'; //å¦\x82æ\x9e\x9cæ\x98¯æ­£å¸¸æ¨¡å¼\x8fä¸\x8bï¼\x8cå\x8f¯ä»¥è·³è½¬ç\x99»å½\x95é¡µã\x80\x82
+    }
+  </script>
+</html>
+
+2025-06-02 16:07:59,358 [ERROR] IV token tidak ditemukan!
+2025-06-02 16:07:59,358 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 16:08:59,360 [INFO] Mengambil IV token dari WebApp
+2025-06-02 16:08:59,426 [INFO] Berhasil akses login page
+2025-06-02 16:08:59,438 [INFO] <!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta http-equiv="cache-control" content="no-cache, must-revalidate" />
+    <meta http-equiv="expires" content="0" />
+  </head>
+  <body></body>
+  <script type="text/javascript">
+    //å¤\x84ç\x90\x86å\x8d\x87çº§ï¼\x8c4.0è®¾å¤\x87å\x8d\x87çº§å\x88°5.0æ\x97¶ä¼\x9aè¿\x9bå\x88°è¿\x99ä¸ªé¡µé\x9d¢
+    if (sessionStorage.getItem('disPatchLogin')) {
+      document.location.href = '../index.html#/portal/close'; //å¦\x82æ\x9e\x9cæ\x98¯ç¦»çº¿å\x8c\x85æ¨¡å¼\x8fä¸\x8bï¼\x8cé\x9c\x80è¦\x81è·³è½¬å\x88°closeé¡µé\x9d¢ï¼\x8cè®©ç\x94¨æ\x88·å\x85³æ\x8e\x89å\x86\x8dæ\x89\x93å¼\x80ï¼\x8cé\x81¿å\x85\x8då\x87ºç\x8e°ç\x99»å½\x95é¡µã\x80\x82
+    } else {
+      document.location.href = '../index.html#/portal/login'; //å¦\x82æ\x9e\x9cæ\x98¯æ­£å¸¸æ¨¡å¼\x8fä¸\x8bï¼\x8cå\x8f¯ä»¥è·³è½¬ç\x99»å½\x95é¡µã\x80\x82
+    }
+  </script>
+</html>
+
+2025-06-02 16:08:59,439 [ERROR] IV token tidak ditemukan!
+2025-06-02 16:08:59,439 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 16:09:59,440 [INFO] Mengambil IV token dari WebApp
+2025-06-02 16:09:59,520 [INFO] Berhasil akses login page
+2025-06-02 16:09:59,521 [INFO] <!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta http-equiv="cache-control" content="no-cache, must-revalidate" />
+    <meta http-equiv="expires" content="0" />
+  </head>
+  <body></body>
+  <script type="text/javascript">
+    //å¤\x84ç\x90\x86å\x8d\x87çº§ï¼\x8c4.0è®¾å¤\x87å\x8d\x87çº§å\x88°5.0æ\x97¶ä¼\x9aè¿\x9bå\x88°è¿\x99ä¸ªé¡µé\x9d¢
+    if (sessionStorage.getItem('disPatchLogin')) {
+      document.location.href = '../index.html#/portal/close'; //å¦\x82æ\x9e\x9cæ\x98¯ç¦»çº¿å\x8c\x85æ¨¡å¼\x8fä¸\x8bï¼\x8cé\x9c\x80è¦\x81è·³è½¬å\x88°closeé¡µé\x9d¢ï¼\x8cè®©ç\x94¨æ\x88·å\x85³æ\x8e\x89å\x86\x8dæ\x89\x93å¼\x80ï¼\x8cé\x81¿å\x85\x8då\x87ºç\x8e°ç\x99»å½\x95é¡µã\x80\x82
+    } else {
+      document.location.href = '../index.html#/portal/login'; //å¦\x82æ\x9e\x9cæ\x98¯æ­£å¸¸æ¨¡å¼\x8fä¸\x8bï¼\x8cå\x8f¯ä»¥è·³è½¬ç\x99»å½\x95é¡µã\x80\x82
+    }
+  </script>
+</html>
+
+2025-06-02 16:09:59,521 [ERROR] IV token tidak ditemukan!
+2025-06-02 16:09:59,522 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 16:10:59,522 [INFO] Mengambil IV token dari WebApp
+2025-06-02 16:10:59,589 [INFO] Berhasil akses login page
+2025-06-02 16:10:59,589 [INFO] <!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta http-equiv="cache-control" content="no-cache, must-revalidate" />
+    <meta http-equiv="expires" content="0" />
+  </head>
+  <body></body>
+  <script type="text/javascript">
+    //å¤\x84ç\x90\x86å\x8d\x87çº§ï¼\x8c4.0è®¾å¤\x87å\x8d\x87çº§å\x88°5.0æ\x97¶ä¼\x9aè¿\x9bå\x88°è¿\x99ä¸ªé¡µé\x9d¢
+    if (sessionStorage.getItem('disPatchLogin')) {
+      document.location.href = '../index.html#/portal/close'; //å¦\x82æ\x9e\x9cæ\x98¯ç¦»çº¿å\x8c\x85æ¨¡å¼\x8fä¸\x8bï¼\x8cé\x9c\x80è¦\x81è·³è½¬å\x88°closeé¡µé\x9d¢ï¼\x8cè®©ç\x94¨æ\x88·å\x85³æ\x8e\x89å\x86\x8dæ\x89\x93å¼\x80ï¼\x8cé\x81¿å\x85\x8då\x87ºç\x8e°ç\x99»å½\x95é¡µã\x80\x82
+    } else {
+      document.location.href = '../index.html#/portal/login'; //å¦\x82æ\x9e\x9cæ\x98¯æ­£å¸¸æ¨¡å¼\x8fä¸\x8bï¼\x8cå\x8f¯ä»¥è·³è½¬ç\x99»å½\x95é¡µã\x80\x82
+    }
+  </script>
+</html>
+
+2025-06-02 16:10:59,589 [ERROR] IV token tidak ditemukan!
+2025-06-02 16:10:59,590 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 16:11:59,593 [INFO] Mengambil IV token dari WebApp
+2025-06-02 16:11:59,677 [INFO] Berhasil akses login page
+2025-06-02 16:11:59,678 [INFO] <!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta http-equiv="cache-control" content="no-cache, must-revalidate" />
+    <meta http-equiv="expires" content="0" />
+  </head>
+  <body></body>
+  <script type="text/javascript">
+    //å¤\x84ç\x90\x86å\x8d\x87çº§ï¼\x8c4.0è®¾å¤\x87å\x8d\x87çº§å\x88°5.0æ\x97¶ä¼\x9aè¿\x9bå\x88°è¿\x99ä¸ªé¡µé\x9d¢
+    if (sessionStorage.getItem('disPatchLogin')) {
+      document.location.href = '../index.html#/portal/close'; //å¦\x82æ\x9e\x9cæ\x98¯ç¦»çº¿å\x8c\x85æ¨¡å¼\x8fä¸\x8bï¼\x8cé\x9c\x80è¦\x81è·³è½¬å\x88°closeé¡µé\x9d¢ï¼\x8cè®©ç\x94¨æ\x88·å\x85³æ\x8e\x89å\x86\x8dæ\x89\x93å¼\x80ï¼\x8cé\x81¿å\x85\x8då\x87ºç\x8e°ç\x99»å½\x95é¡µã\x80\x82
+    } else {
+      document.location.href = '../index.html#/portal/login'; //å¦\x82æ\x9e\x9cæ\x98¯æ­£å¸¸æ¨¡å¼\x8fä¸\x8bï¼\x8cå\x8f¯ä»¥è·³è½¬ç\x99»å½\x95é¡µã\x80\x82
+    }
+  </script>
+</html>
+
+2025-06-02 16:11:59,678 [ERROR] IV token tidak ditemukan!
+2025-06-02 16:11:59,679 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 16:12:59,680 [INFO] Mengambil IV token dari WebApp
+2025-06-02 16:12:59,755 [INFO] Berhasil akses login page
+2025-06-02 16:12:59,755 [INFO] <!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta http-equiv="cache-control" content="no-cache, must-revalidate" />
+    <meta http-equiv="expires" content="0" />
+  </head>
+  <body></body>
+  <script type="text/javascript">
+    //å¤\x84ç\x90\x86å\x8d\x87çº§ï¼\x8c4.0è®¾å¤\x87å\x8d\x87çº§å\x88°5.0æ\x97¶ä¼\x9aè¿\x9bå\x88°è¿\x99ä¸ªé¡µé\x9d¢
+    if (sessionStorage.getItem('disPatchLogin')) {
+      document.location.href = '../index.html#/portal/close'; //å¦\x82æ\x9e\x9cæ\x98¯ç¦»çº¿å\x8c\x85æ¨¡å¼\x8fä¸\x8bï¼\x8cé\x9c\x80è¦\x81è·³è½¬å\x88°closeé¡µé\x9d¢ï¼\x8cè®©ç\x94¨æ\x88·å\x85³æ\x8e\x89å\x86\x8dæ\x89\x93å¼\x80ï¼\x8cé\x81¿å\x85\x8då\x87ºç\x8e°ç\x99»å½\x95é¡µã\x80\x82
+    } else {
+      document.location.href = '../index.html#/portal/login'; //å¦\x82æ\x9e\x9cæ\x98¯æ­£å¸¸æ¨¡å¼\x8fä¸\x8bï¼\x8cå\x8f¯ä»¥è·³è½¬ç\x99»å½\x95é¡µã\x80\x82
+    }
+  </script>
+</html>
+
+2025-06-02 16:12:59,756 [ERROR] IV token tidak ditemukan!
+2025-06-02 16:12:59,756 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 16:13:59,757 [INFO] Mengambil IV token dari WebApp
+2025-06-02 16:13:59,851 [INFO] Berhasil akses login page
+2025-06-02 16:13:59,851 [INFO] <!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta http-equiv="cache-control" content="no-cache, must-revalidate" />
+    <meta http-equiv="expires" content="0" />
+  </head>
+  <body></body>
+  <script type="text/javascript">
+    //å¤\x84ç\x90\x86å\x8d\x87çº§ï¼\x8c4.0è®¾å¤\x87å\x8d\x87çº§å\x88°5.0æ\x97¶ä¼\x9aè¿\x9bå\x88°è¿\x99ä¸ªé¡µé\x9d¢
+    if (sessionStorage.getItem('disPatchLogin')) {
+      document.location.href = '../index.html#/portal/close'; //å¦\x82æ\x9e\x9cæ\x98¯ç¦»çº¿å\x8c\x85æ¨¡å¼\x8fä¸\x8bï¼\x8cé\x9c\x80è¦\x81è·³è½¬å\x88°closeé¡µé\x9d¢ï¼\x8cè®©ç\x94¨æ\x88·å\x85³æ\x8e\x89å\x86\x8dæ\x89\x93å¼\x80ï¼\x8cé\x81¿å\x85\x8då\x87ºç\x8e°ç\x99»å½\x95é¡µã\x80\x82
+    } else {
+      document.location.href = '../index.html#/portal/login'; //å¦\x82æ\x9e\x9cæ\x98¯æ­£å¸¸æ¨¡å¼\x8fä¸\x8bï¼\x8cå\x8f¯ä»¥è·³è½¬ç\x99»å½\x95é¡µã\x80\x82
+    }
+  </script>
+</html>
+
+2025-06-02 16:13:59,852 [ERROR] IV token tidak ditemukan!
+2025-06-02 16:13:59,852 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 16:14:59,853 [INFO] Mengambil IV token dari WebApp
+2025-06-02 16:15:00,442 [INFO] Berhasil akses login page
+2025-06-02 16:15:00,443 [INFO] <!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta http-equiv="cache-control" content="no-cache, must-revalidate" />
+    <meta http-equiv="expires" content="0" />
+  </head>
+  <body></body>
+  <script type="text/javascript">
+    //å¤\x84ç\x90\x86å\x8d\x87çº§ï¼\x8c4.0è®¾å¤\x87å\x8d\x87çº§å\x88°5.0æ\x97¶ä¼\x9aè¿\x9bå\x88°è¿\x99ä¸ªé¡µé\x9d¢
+    if (sessionStorage.getItem('disPatchLogin')) {
+      document.location.href = '../index.html#/portal/close'; //å¦\x82æ\x9e\x9cæ\x98¯ç¦»çº¿å\x8c\x85æ¨¡å¼\x8fä¸\x8bï¼\x8cé\x9c\x80è¦\x81è·³è½¬å\x88°closeé¡µé\x9d¢ï¼\x8cè®©ç\x94¨æ\x88·å\x85³æ\x8e\x89å\x86\x8dæ\x89\x93å¼\x80ï¼\x8cé\x81¿å\x85\x8då\x87ºç\x8e°ç\x99»å½\x95é¡µã\x80\x82
+    } else {
+      document.location.href = '../index.html#/portal/login'; //å¦\x82æ\x9e\x9cæ\x98¯æ­£å¸¸æ¨¡å¼\x8fä¸\x8bï¼\x8cå\x8f¯ä»¥è·³è½¬ç\x99»å½\x95é¡µã\x80\x82
+    }
+  </script>
+</html>
+
+2025-06-02 16:15:00,443 [ERROR] IV token tidak ditemukan!
+2025-06-02 16:15:00,444 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 16:16:00,444 [INFO] Mengambil IV token dari WebApp
+2025-06-02 16:16:00,593 [INFO] Berhasil akses login page
+2025-06-02 16:16:00,593 [INFO] <!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta http-equiv="cache-control" content="no-cache, must-revalidate" />
+    <meta http-equiv="expires" content="0" />
+  </head>
+  <body></body>
+  <script type="text/javascript">
+    //å¤\x84ç\x90\x86å\x8d\x87çº§ï¼\x8c4.0è®¾å¤\x87å\x8d\x87çº§å\x88°5.0æ\x97¶ä¼\x9aè¿\x9bå\x88°è¿\x99ä¸ªé¡µé\x9d¢
+    if (sessionStorage.getItem('disPatchLogin')) {
+      document.location.href = '../index.html#/portal/close'; //å¦\x82æ\x9e\x9cæ\x98¯ç¦»çº¿å\x8c\x85æ¨¡å¼\x8fä¸\x8bï¼\x8cé\x9c\x80è¦\x81è·³è½¬å\x88°closeé¡µé\x9d¢ï¼\x8cè®©ç\x94¨æ\x88·å\x85³æ\x8e\x89å\x86\x8dæ\x89\x93å¼\x80ï¼\x8cé\x81¿å\x85\x8då\x87ºç\x8e°ç\x99»å½\x95é¡µã\x80\x82
+    } else {
+      document.location.href = '../index.html#/portal/login'; //å¦\x82æ\x9e\x9cæ\x98¯æ­£å¸¸æ¨¡å¼\x8fä¸\x8bï¼\x8cå\x8f¯ä»¥è·³è½¬ç\x99»å½\x95é¡µã\x80\x82
+    }
+  </script>
+</html>
+
+2025-06-02 16:16:00,594 [ERROR] IV token tidak ditemukan!
+2025-06-02 16:16:00,594 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 16:17:23,368 [INFO] Mengambil IV token dari WebApp
+2025-06-02 16:17:23,919 [INFO] Berhasil akses login page
+2025-06-02 16:17:23,920 [INFO] <!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta http-equiv="cache-control" content="no-cache, must-revalidate" />
+    <meta http-equiv="expires" content="0" />
+  </head>
+  <body></body>
+  <script type="text/javascript">
+    //å¤\x84ç\x90\x86å\x8d\x87çº§ï¼\x8c4.0è®¾å¤\x87å\x8d\x87çº§å\x88°5.0æ\x97¶ä¼\x9aè¿\x9bå\x88°è¿\x99ä¸ªé¡µé\x9d¢
+    if (sessionStorage.getItem('disPatchLogin')) {
+      document.location.href = '../index.html#/portal/close'; //å¦\x82æ\x9e\x9cæ\x98¯ç¦»çº¿å\x8c\x85æ¨¡å¼\x8fä¸\x8bï¼\x8cé\x9c\x80è¦\x81è·³è½¬å\x88°closeé¡µé\x9d¢ï¼\x8cè®©ç\x94¨æ\x88·å\x85³æ\x8e\x89å\x86\x8dæ\x89\x93å¼\x80ï¼\x8cé\x81¿å\x85\x8då\x87ºç\x8e°ç\x99»å½\x95é¡µã\x80\x82
+    } else {
+      document.location.href = '../index.html#/portal/login'; //å¦\x82æ\x9e\x9cæ\x98¯æ­£å¸¸æ¨¡å¼\x8fä¸\x8bï¼\x8cå\x8f¯ä»¥è·³è½¬ç\x99»å½\x95é¡µã\x80\x82
+    }
+  </script>
+</html>
+
+2025-06-02 16:17:23,921 [ERROR] IV token tidak ditemukan!
+2025-06-02 16:17:23,921 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 16:18:23,922 [INFO] Mengambil IV token dari WebApp
+2025-06-02 16:18:23,999 [INFO] Berhasil akses login page
+2025-06-02 16:18:23,999 [INFO] <!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta http-equiv="cache-control" content="no-cache, must-revalidate" />
+    <meta http-equiv="expires" content="0" />
+  </head>
+  <body></body>
+  <script type="text/javascript">
+    //å¤\x84ç\x90\x86å\x8d\x87çº§ï¼\x8c4.0è®¾å¤\x87å\x8d\x87çº§å\x88°5.0æ\x97¶ä¼\x9aè¿\x9bå\x88°è¿\x99ä¸ªé¡µé\x9d¢
+    if (sessionStorage.getItem('disPatchLogin')) {
+      document.location.href = '../index.html#/portal/close'; //å¦\x82æ\x9e\x9cæ\x98¯ç¦»çº¿å\x8c\x85æ¨¡å¼\x8fä¸\x8bï¼\x8cé\x9c\x80è¦\x81è·³è½¬å\x88°closeé¡µé\x9d¢ï¼\x8cè®©ç\x94¨æ\x88·å\x85³æ\x8e\x89å\x86\x8dæ\x89\x93å¼\x80ï¼\x8cé\x81¿å\x85\x8då\x87ºç\x8e°ç\x99»å½\x95é¡µã\x80\x82
+    } else {
+      document.location.href = '../index.html#/portal/login'; //å¦\x82æ\x9e\x9cæ\x98¯æ­£å¸¸æ¨¡å¼\x8fä¸\x8bï¼\x8cå\x8f¯ä»¥è·³è½¬ç\x99»å½\x95é¡µã\x80\x82
+    }
+  </script>
+</html>
+
+2025-06-02 16:18:23,999 [ERROR] IV token tidak ditemukan!
+2025-06-02 16:18:24,000 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 16:19:24,000 [INFO] Mengambil IV token dari WebApp
+2025-06-02 16:19:24,071 [INFO] Berhasil akses login page
+2025-06-02 16:19:24,072 [INFO] <!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta http-equiv="cache-control" content="no-cache, must-revalidate" />
+    <meta http-equiv="expires" content="0" />
+  </head>
+  <body></body>
+  <script type="text/javascript">
+    //å¤\x84ç\x90\x86å\x8d\x87çº§ï¼\x8c4.0è®¾å¤\x87å\x8d\x87çº§å\x88°5.0æ\x97¶ä¼\x9aè¿\x9bå\x88°è¿\x99ä¸ªé¡µé\x9d¢
+    if (sessionStorage.getItem('disPatchLogin')) {
+      document.location.href = '../index.html#/portal/close'; //å¦\x82æ\x9e\x9cæ\x98¯ç¦»çº¿å\x8c\x85æ¨¡å¼\x8fä¸\x8bï¼\x8cé\x9c\x80è¦\x81è·³è½¬å\x88°closeé¡µé\x9d¢ï¼\x8cè®©ç\x94¨æ\x88·å\x85³æ\x8e\x89å\x86\x8dæ\x89\x93å¼\x80ï¼\x8cé\x81¿å\x85\x8då\x87ºç\x8e°ç\x99»å½\x95é¡µã\x80\x82
+    } else {
+      document.location.href = '../index.html#/portal/login'; //å¦\x82æ\x9e\x9cæ\x98¯æ­£å¸¸æ¨¡å¼\x8fä¸\x8bï¼\x8cå\x8f¯ä»¥è·³è½¬ç\x99»å½\x95é¡µã\x80\x82
+    }
+  </script>
+</html>
+
+2025-06-02 16:19:24,072 [ERROR] IV token tidak ditemukan!
+2025-06-02 16:19:24,072 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 16:20:24,073 [INFO] Mengambil IV token dari WebApp
+2025-06-02 16:20:24,177 [INFO] Berhasil akses login page
+2025-06-02 16:20:24,178 [INFO] <!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta http-equiv="cache-control" content="no-cache, must-revalidate" />
+    <meta http-equiv="expires" content="0" />
+  </head>
+  <body></body>
+  <script type="text/javascript">
+    //å¤\x84ç\x90\x86å\x8d\x87çº§ï¼\x8c4.0è®¾å¤\x87å\x8d\x87çº§å\x88°5.0æ\x97¶ä¼\x9aè¿\x9bå\x88°è¿\x99ä¸ªé¡µé\x9d¢
+    if (sessionStorage.getItem('disPatchLogin')) {
+      document.location.href = '../index.html#/portal/close'; //å¦\x82æ\x9e\x9cæ\x98¯ç¦»çº¿å\x8c\x85æ¨¡å¼\x8fä¸\x8bï¼\x8cé\x9c\x80è¦\x81è·³è½¬å\x88°closeé¡µé\x9d¢ï¼\x8cè®©ç\x94¨æ\x88·å\x85³æ\x8e\x89å\x86\x8dæ\x89\x93å¼\x80ï¼\x8cé\x81¿å\x85\x8då\x87ºç\x8e°ç\x99»å½\x95é¡µã\x80\x82
+    } else {
+      document.location.href = '../index.html#/portal/login'; //å¦\x82æ\x9e\x9cæ\x98¯æ­£å¸¸æ¨¡å¼\x8fä¸\x8bï¼\x8cå\x8f¯ä»¥è·³è½¬ç\x99»å½\x95é¡µã\x80\x82
+    }
+  </script>
+</html>
+
+2025-06-02 16:20:24,178 [ERROR] IV token tidak ditemukan!
+2025-06-02 16:20:24,179 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 16:21:24,180 [INFO] Mengambil IV token dari WebApp
+2025-06-02 16:21:24,799 [INFO] Berhasil akses login page
+2025-06-02 16:21:24,799 [INFO] <!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta http-equiv="cache-control" content="no-cache, must-revalidate" />
+    <meta http-equiv="expires" content="0" />
+  </head>
+  <body></body>
+  <script type="text/javascript">
+    //å¤\x84ç\x90\x86å\x8d\x87çº§ï¼\x8c4.0è®¾å¤\x87å\x8d\x87çº§å\x88°5.0æ\x97¶ä¼\x9aè¿\x9bå\x88°è¿\x99ä¸ªé¡µé\x9d¢
+    if (sessionStorage.getItem('disPatchLogin')) {
+      document.location.href = '../index.html#/portal/close'; //å¦\x82æ\x9e\x9cæ\x98¯ç¦»çº¿å\x8c\x85æ¨¡å¼\x8fä¸\x8bï¼\x8cé\x9c\x80è¦\x81è·³è½¬å\x88°closeé¡µé\x9d¢ï¼\x8cè®©ç\x94¨æ\x88·å\x85³æ\x8e\x89å\x86\x8dæ\x89\x93å¼\x80ï¼\x8cé\x81¿å\x85\x8då\x87ºç\x8e°ç\x99»å½\x95é¡µã\x80\x82
+    } else {
+      document.location.href = '../index.html#/portal/login'; //å¦\x82æ\x9e\x9cæ\x98¯æ­£å¸¸æ¨¡å¼\x8fä¸\x8bï¼\x8cå\x8f¯ä»¥è·³è½¬ç\x99»å½\x95é¡µã\x80\x82
+    }
+  </script>
+</html>
+
+2025-06-02 16:21:24,799 [ERROR] IV token tidak ditemukan!
+2025-06-02 16:21:24,800 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 16:22:24,801 [INFO] Mengambil IV token dari WebApp
+2025-06-02 16:22:24,880 [INFO] Berhasil akses login page
+2025-06-02 16:22:24,881 [INFO] <!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta http-equiv="cache-control" content="no-cache, must-revalidate" />
+    <meta http-equiv="expires" content="0" />
+  </head>
+  <body></body>
+  <script type="text/javascript">
+    //å¤\x84ç\x90\x86å\x8d\x87çº§ï¼\x8c4.0è®¾å¤\x87å\x8d\x87çº§å\x88°5.0æ\x97¶ä¼\x9aè¿\x9bå\x88°è¿\x99ä¸ªé¡µé\x9d¢
+    if (sessionStorage.getItem('disPatchLogin')) {
+      document.location.href = '../index.html#/portal/close'; //å¦\x82æ\x9e\x9cæ\x98¯ç¦»çº¿å\x8c\x85æ¨¡å¼\x8fä¸\x8bï¼\x8cé\x9c\x80è¦\x81è·³è½¬å\x88°closeé¡µé\x9d¢ï¼\x8cè®©ç\x94¨æ\x88·å\x85³æ\x8e\x89å\x86\x8dæ\x89\x93å¼\x80ï¼\x8cé\x81¿å\x85\x8då\x87ºç\x8e°ç\x99»å½\x95é¡µã\x80\x82
+    } else {
+      document.location.href = '../index.html#/portal/login'; //å¦\x82æ\x9e\x9cæ\x98¯æ­£å¸¸æ¨¡å¼\x8fä¸\x8bï¼\x8cå\x8f¯ä»¥è·³è½¬ç\x99»å½\x95é¡µã\x80\x82
+    }
+  </script>
+</html>
+
+2025-06-02 16:22:24,881 [ERROR] IV token tidak ditemukan!
+2025-06-02 16:22:24,882 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 16:27:20,437 [ERROR] Gagal ambil IV token, polling dihentikan sementara
+2025-06-02 16:59:58,452 [INFO] Generated secure IV: 84b81e6f476922a50723d7cbc75f499e
+2025-06-02 16:59:58,821 [ERROR] Polling error: 401
+2025-06-02 17:00:58,822 [INFO] Generated secure IV: a158139fce88685ddeb72657be3b1f28
+2025-06-02 17:00:58,906 [ERROR] Polling error: 401
+2025-06-02 17:01:58,907 [INFO] Generated secure IV: 3dd995106e59801ff31b64ac5cd4ed8e
+2025-06-02 17:01:59,575 [ERROR] Polling error: 401
+2025-06-02 17:02:59,576 [INFO] Generated secure IV: b95f07e8c4146d82daef0ddb4b88bb57
+2025-06-02 17:03:00,681 [ERROR] Polling error: 401
+2025-06-02 17:04:00,682 [INFO] Generated secure IV: 53f14f1ff26f58721eeda04fa3204872
+2025-06-02 17:04:01,522 [ERROR] Polling error: 401
+2025-06-02 17:05:01,522 [INFO] Generated secure IV: 78160454e84dd3c23473b43aba281ac6
+2025-06-02 17:05:02,344 [ERROR] Polling error: 401
+2025-06-02 17:06:02,345 [INFO] Generated secure IV: a8082860b1dfcc6903516e436383b2e6
+2025-06-02 17:06:02,422 [ERROR] Polling error: 401
+2025-06-02 17:07:02,422 [INFO] Generated secure IV: 65a2654e9548221c2e7eda81db72941a
+2025-06-02 17:07:02,755 [ERROR] Polling error: 401
+2025-06-02 17:08:02,756 [INFO] Generated secure IV: 4238dd9f2d6f363a46e2673d62fbd693
+2025-06-02 17:08:12,766 [ERROR] Error polling UserInfo: HTTPConnectionPool(host='192.168.88.132', port=80): Max retries exceeded with url: /ISAPI/AccessControl/UserInfo/Search?format=json&security=1&iv=4238dd9f2d6f363a46e2673d62fbd693 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000158372B7230>, 'Connection to 192.168.88.132 timed out. (connect timeout=10)'))
+2025-06-02 17:09:12,767 [INFO] Generated secure IV: daf3d94d927e5816dd2fa31c9ded3470
+2025-06-02 17:09:22,782 [ERROR] Error polling UserInfo: HTTPConnectionPool(host='192.168.88.132', port=80): Max retries exceeded with url: /ISAPI/AccessControl/UserInfo/Search?format=json&security=1&iv=daf3d94d927e5816dd2fa31c9ded3470 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000015837286AD0>, 'Connection to 192.168.88.132 timed out. (connect timeout=10)'))
+2025-06-02 17:10:22,782 [INFO] Generated secure IV: 90a946f482265e08c733f4505d4409c6
+2025-06-02 17:10:32,793 [ERROR] Error polling UserInfo: HTTPConnectionPool(host='192.168.88.132', port=80): Max retries exceeded with url: /ISAPI/AccessControl/UserInfo/Search?format=json&security=1&iv=90a946f482265e08c733f4505d4409c6 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000015837286990>, 'Connection to 192.168.88.132 timed out. (connect timeout=10)'))
+2025-06-02 17:11:32,794 [INFO] Generated secure IV: ee6397dd2667a4b56ebaa4a52c4bd641
+2025-06-02 17:11:42,808 [ERROR] Error polling UserInfo: HTTPConnectionPool(host='192.168.88.132', port=80): Max retries exceeded with url: /ISAPI/AccessControl/UserInfo/Search?format=json&security=1&iv=ee6397dd2667a4b56ebaa4a52c4bd641 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000015837292520>, 'Connection to 192.168.88.132 timed out. (connect timeout=10)'))
+2025-06-02 17:12:42,808 [INFO] Generated secure IV: 6cd5e5d53c2d116d31265ad1046310ae
+2025-06-02 17:12:52,819 [ERROR] Error polling UserInfo: HTTPConnectionPool(host='192.168.88.132', port=80): Max retries exceeded with url: /ISAPI/AccessControl/UserInfo/Search?format=json&security=1&iv=6cd5e5d53c2d116d31265ad1046310ae (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000015837292520>, 'Connection to 192.168.88.132 timed out. (connect timeout=10)'))
+2025-06-02 17:13:52,820 [INFO] Generated secure IV: adb0ff0f090d104d3b983b52c3b18580
+2025-06-02 17:14:02,827 [ERROR] Error polling UserInfo: HTTPConnectionPool(host='192.168.88.132', port=80): Max retries exceeded with url: /ISAPI/AccessControl/UserInfo/Search?format=json&security=1&iv=adb0ff0f090d104d3b983b52c3b18580 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001583733DA30>, 'Connection to 192.168.88.132 timed out. (connect timeout=10)'))
+2025-06-02 17:15:02,828 [INFO] Generated secure IV: 79fc53fa8109f0d58a5c0fa556a65cf9
+2025-06-02 17:15:12,844 [ERROR] Error polling UserInfo: HTTPConnectionPool(host='192.168.88.132', port=80): Max retries exceeded with url: /ISAPI/AccessControl/UserInfo/Search?format=json&security=1&iv=79fc53fa8109f0d58a5c0fa556a65cf9 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000015837330160>, 'Connection to 192.168.88.132 timed out. (connect timeout=10)'))
+2025-06-02 17:16:12,845 [INFO] Generated secure IV: 27d439cb7bae527160053e2c418fc74c
+2025-06-02 17:16:22,864 [ERROR] Error polling UserInfo: HTTPConnectionPool(host='192.168.88.132', port=80): Max retries exceeded with url: /ISAPI/AccessControl/UserInfo/Search?format=json&security=1&iv=27d439cb7bae527160053e2c418fc74c (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000158373309E0>, 'Connection to 192.168.88.132 timed out. (connect timeout=10)'))
+2025-06-02 17:17:22,865 [INFO] Generated secure IV: cd65922de2ea578b0c6f137a527bdac8
+2025-06-02 17:17:32,868 [ERROR] Error polling UserInfo: HTTPConnectionPool(host='192.168.88.132', port=80): Max retries exceeded with url: /ISAPI/AccessControl/UserInfo/Search?format=json&security=1&iv=cd65922de2ea578b0c6f137a527bdac8 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000015837330C00>, 'Connection to 192.168.88.132 timed out. (connect timeout=10)'))
+2025-06-02 17:18:32,870 [INFO] Generated secure IV: 68b2dd31f553ddd8f137f5f4bacdad5d
+2025-06-02 17:18:42,892 [ERROR] Error polling UserInfo: HTTPConnectionPool(host='192.168.88.132', port=80): Max retries exceeded with url: /ISAPI/AccessControl/UserInfo/Search?format=json&security=1&iv=68b2dd31f553ddd8f137f5f4bacdad5d (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000015837330E20>, 'Connection to 192.168.88.132 timed out. (connect timeout=10)'))
+2025-06-02 17:19:42,893 [INFO] Generated secure IV: 0df5f50cfae0bcb5cdd1d8f8bddf3d34
+2025-06-02 17:19:52,905 [ERROR] Error polling UserInfo: HTTPConnectionPool(host='192.168.88.132', port=80): Max retries exceeded with url: /ISAPI/AccessControl/UserInfo/Search?format=json&security=1&iv=0df5f50cfae0bcb5cdd1d8f8bddf3d34 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000015837331040>, 'Connection to 192.168.88.132 timed out. (connect timeout=10)'))
